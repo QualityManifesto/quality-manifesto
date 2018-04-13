@@ -1,4 +1,4 @@
-
+# QUALITY MANIFESTO
 
 ## Quality should be:
 
